@@ -10,7 +10,7 @@
 
 
 # StarterContent를 형상 관리 하지않을경우
-Content/StarterContent/
+#Content/StarterContent/
 
 
 # Visual Studio 2015 database file
